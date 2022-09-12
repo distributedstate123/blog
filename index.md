@@ -2,4 +2,3 @@
 Distributed State
 ---
 Welcome!
-
