@@ -1,4 +1,3 @@
----
-Distributed State
----
-Welcome!
+layout: page
+title: "INDEX"
+permalink: /index/
